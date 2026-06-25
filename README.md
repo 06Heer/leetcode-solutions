@@ -28,4 +28,8 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/06Heer/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/06Heer/leetcode-solutions/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
