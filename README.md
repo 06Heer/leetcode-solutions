@@ -33,4 +33,5 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/06Heer/leetcode-solutions/tree/main/0175-combine-two-tables/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/06Heer/leetcode-solutions/tree/main/1527-patients-with-a-condition/) | Easy |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/06Heer/leetcode-solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 <!---LeetCode Topics End-->
