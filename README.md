@@ -6,6 +6,7 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/06Heer/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/06Heer/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/06Heer/leetcode-solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Hash Table
@@ -52,4 +53,8 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/06Heer/leetcode-solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/06Heer/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
