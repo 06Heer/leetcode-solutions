@@ -32,4 +32,5 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/06Heer/leetcode-solutions/tree/main/0175-combine-two-tables/) | Easy |
+| [1527-patients-with-a-condition](https://github.com/06Heer/leetcode-solutions/tree/main/1527-patients-with-a-condition/) | Easy |
 <!---LeetCode Topics End-->
