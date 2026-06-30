@@ -17,6 +17,7 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/06Heer/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0146-lru-cache](https://github.com/06Heer/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/06Heer/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/06Heer/leetcode-solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/06Heer/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/06Heer/leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -85,4 +87,8 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/06Heer/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/06Heer/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 <!---LeetCode Topics End-->
