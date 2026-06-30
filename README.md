@@ -11,6 +11,7 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | [0136-single-number](https://github.com/06Heer/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/06Heer/leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/06Heer/leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/06Heer/leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/06Heer/leetcode-solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -18,6 +19,7 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | [0128-longest-consecutive-sequence](https://github.com/06Heer/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0146-lru-cache](https://github.com/06Heer/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/06Heer/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/06Heer/leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/06Heer/leetcode-solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -91,4 +93,8 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/06Heer/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/06Heer/leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 <!---LeetCode Topics End-->
