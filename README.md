@@ -49,6 +49,7 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | [1587-bank-account-summary-ii](https://github.com/06Heer/leetcode-solutions/tree/main/1587-bank-account-summary-ii/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/06Heer/leetcode-solutions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/06Heer/leetcode-solutions/tree/main/1667-fix-names-in-a-table/) | Easy |
+| [1729-find-followers-count](https://github.com/06Heer/leetcode-solutions/tree/main/1729-find-followers-count/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
