@@ -14,6 +14,7 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/06Heer/leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/06Heer/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/06Heer/leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/06Heer/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/06Heer/leetcode-solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -113,16 +114,27 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/06Heer/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/06Heer/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/06Heer/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/06Heer/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/06Heer/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/06Heer/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/06Heer/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/06Heer/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/06Heer/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
