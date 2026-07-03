@@ -15,6 +15,7 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | [2812-find-the-safest-path-in-a-grid](https://github.com/06Heer/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/06Heer/leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/06Heer/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/06Heer/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/06Heer/leetcode-solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -73,6 +74,7 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/06Heer/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [3620-network-recovery-pathways](https://github.com/06Heer/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +115,7 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/06Heer/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/06Heer/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +126,7 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/06Heer/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/06Heer/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/06Heer/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,12 +140,18 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/06Heer/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/06Heer/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/06Heer/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/06Heer/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/06Heer/leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/06Heer/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
