@@ -56,6 +56,7 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | [1693-daily-leads-and-partners](https://github.com/06Heer/leetcode-solutions/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1729-find-followers-count](https://github.com/06Heer/leetcode-solutions/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/06Heer/leetcode-solutions/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
+| [1789-primary-department-for-each-employee](https://github.com/06Heer/leetcode-solutions/tree/main/1789-primary-department-for-each-employee/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
