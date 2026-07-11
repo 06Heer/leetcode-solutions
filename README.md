@@ -80,6 +80,7 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/06Heer/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/06Heer/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/06Heer/leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/06Heer/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -113,6 +114,7 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/06Heer/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
+| [0070-climbing-stairs](https://github.com/06Heer/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/06Heer/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -195,4 +197,8 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/06Heer/leetcode-solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/06Heer/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
