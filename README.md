@@ -62,6 +62,7 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/06Heer/leetcode-solutions/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/06Heer/leetcode-solutions/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1795-rearrange-products-table](https://github.com/06Heer/leetcode-solutions/tree/main/1795-rearrange-products-table/) | Easy |
+| [1873-calculate-special-bonus](https://github.com/06Heer/leetcode-solutions/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/06Heer/leetcode-solutions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
