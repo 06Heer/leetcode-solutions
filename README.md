@@ -68,6 +68,7 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0190-reverse-bits](https://github.com/06Heer/leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/06Heer/leetcode-solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -106,6 +107,7 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/06Heer/leetcode-solutions/tree/main/0136-single-number/) | Easy |
+| [0190-reverse-bits](https://github.com/06Heer/leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/06Heer/leetcode-solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/06Heer/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 ## String
