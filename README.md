@@ -114,6 +114,7 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0087-scramble-string](https://github.com/06Heer/leetcode-solutions/tree/main/0087-scramble-string/) | Hard |
+| [0125-valid-palindrome](https://github.com/06Heer/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0796-rotate-string](https://github.com/06Heer/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/06Heer/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/06Heer/leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -199,6 +200,7 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/06Heer/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/06Heer/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
