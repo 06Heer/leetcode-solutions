@@ -90,6 +90,7 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | [0070-climbing-stairs](https://github.com/06Heer/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0087-scramble-string](https://github.com/06Heer/leetcode-solutions/tree/main/0087-scramble-string/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/06Heer/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/06Heer/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/06Heer/leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/06Heer/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Greedy
@@ -119,6 +120,7 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | [0125-valid-palindrome](https://github.com/06Heer/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0126-word-ladder-ii](https://github.com/06Heer/leetcode-solutions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/06Heer/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/06Heer/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0796-rotate-string](https://github.com/06Heer/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/06Heer/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/06Heer/leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -224,6 +226,7 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/06Heer/leetcode-solutions/tree/main/0126-word-ladder-ii/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/06Heer/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
