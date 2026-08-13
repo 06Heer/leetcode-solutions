@@ -66,6 +66,7 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | [1795-rearrange-products-table](https://github.com/06Heer/leetcode-solutions/tree/main/1795-rearrange-products-table/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/06Heer/leetcode-solutions/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1890-the-latest-login-in-2020](https://github.com/06Heer/leetcode-solutions/tree/main/1890-the-latest-login-in-2020/) | Easy |
+| [1907-count-salary-categories](https://github.com/06Heer/leetcode-solutions/tree/main/1907-count-salary-categories/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/06Heer/leetcode-solutions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
