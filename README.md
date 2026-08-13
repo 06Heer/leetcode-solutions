@@ -23,6 +23,7 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/06Heer/leetcode-solutions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/06Heer/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0146-lru-cache](https://github.com/06Heer/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0268-missing-number](https://github.com/06Heer/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
@@ -115,6 +116,7 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | ------- | ------- |
 | [0087-scramble-string](https://github.com/06Heer/leetcode-solutions/tree/main/0087-scramble-string/) | Hard |
 | [0125-valid-palindrome](https://github.com/06Heer/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0126-word-ladder-ii](https://github.com/06Heer/leetcode-solutions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0796-rotate-string](https://github.com/06Heer/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/06Heer/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/06Heer/leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -148,6 +150,7 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/06Heer/leetcode-solutions/tree/main/0126-word-ladder-ii/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/06Heer/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/06Heer/leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/06Heer/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -214,4 +217,12 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/06Heer/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/06Heer/leetcode-solutions/tree/main/0126-word-ladder-ii/) | Hard |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/06Heer/leetcode-solutions/tree/main/0126-word-ladder-ii/) | Hard |
 <!---LeetCode Topics End-->
