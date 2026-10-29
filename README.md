@@ -69,6 +69,7 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | [1907-count-salary-categories](https://github.com/06Heer/leetcode-solutions/tree/main/1907-count-salary-categories/) | Medium |
 | [1934-confirmation-rate](https://github.com/06Heer/leetcode-solutions/tree/main/1934-confirmation-rate/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/06Heer/leetcode-solutions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
+| [3436-find-valid-emails](https://github.com/06Heer/leetcode-solutions/tree/main/3436-find-valid-emails/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
