@@ -70,6 +70,7 @@ Collection of LeetCode solutions for coding interview preparation. Synced automa
 | [1934-confirmation-rate](https://github.com/06Heer/leetcode-solutions/tree/main/1934-confirmation-rate/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/06Heer/leetcode-solutions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [3436-find-valid-emails](https://github.com/06Heer/leetcode-solutions/tree/main/3436-find-valid-emails/) | Easy |
+| [3451-find-invalid-ip-addresses](https://github.com/06Heer/leetcode-solutions/tree/main/3451-find-invalid-ip-addresses/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
